@@ -964,6 +964,33 @@
             "141"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -993,6 +1020,33 @@
             "543",
             "=",
             "141"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
           ]
         }
       ]
@@ -1026,6 +1080,33 @@
             "141"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -1055,6 +1136,33 @@
             "543",
             "=",
             "141"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
           ]
         }
       ]

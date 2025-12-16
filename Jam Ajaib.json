@@ -693,6 +693,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Sound/SFX/Centang (Bila di Perlukan).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },

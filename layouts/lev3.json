@@ -986,6 +986,33 @@
             "141"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -1015,6 +1042,33 @@
             "543",
             "=",
             "141"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
           ]
         }
       ]
@@ -1048,6 +1102,33 @@
             "141"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -1077,6 +1158,33 @@
             "543",
             "=",
             "141"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sound\\SFX\\Centang (Bila di Perlukan).wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
           ]
         }
       ]
@@ -2582,19 +2690,6 @@
                 "0.4",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "SFX\\Gameplay\\Gameplay - Drag End.wav",
-                "1",
-                "",
-                "settings.sound",
-                ""
-              ]
             }
           ]
         }
@@ -2651,19 +2746,6 @@
                 "506",
                 "\"swingFromTo\"",
                 "0.4",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "SFX\\Gameplay\\Gameplay - Drag End.wav",
-                "1",
-                "",
-                "settings.sound",
                 ""
               ]
             }
@@ -2724,19 +2806,6 @@
                 "0.4",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "SFX\\Gameplay\\Gameplay - Drag End.wav",
-                "1",
-                "",
-                "settings.sound",
-                ""
-              ]
             }
           ]
         }
@@ -2793,19 +2862,6 @@
                 "503",
                 "\"swingFromTo\"",
                 "0.4",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "SFX\\Gameplay\\Gameplay - Drag End.wav",
-                "1",
-                "",
-                "settings.sound",
                 ""
               ]
             }
